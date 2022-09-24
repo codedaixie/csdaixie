@@ -1,2 +1,2 @@
 ## d
-![title](../README.md)
+[filename](README.md ':include :type=code')
