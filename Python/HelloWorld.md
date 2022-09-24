@@ -1,2 +1,2 @@
 ## d
-![title](./dir/ReadMe.md)
+![title](ReadMe.md)
