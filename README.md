@@ -18,4 +18,4 @@ Please feel free to contact us anytime！
 
 
 <img src='https://github.com/codedaixie/csdaixie/blob/main/image/down.png'>
-<img src='image/logo.jpeg'  width= '40%'>
+<img src='image/logo.png'>
