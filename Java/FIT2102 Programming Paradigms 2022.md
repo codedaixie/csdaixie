@@ -1,4 +1,5 @@
 ### Programming Paradigms 2022
+FIT2102
 Programming Paradigms 2022
 Marking Criteria and Suggestions
 See the Assignment 1 Specifications in the Moodle Assessments section for the description of the task.
