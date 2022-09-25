@@ -22,11 +22,16 @@ Please feel free to contact us anytime！
 
 ### COMP4650/6490 Document Analysis – Semester 2 / 2022
 
-**Assignment 2
+Assignment 2
+
 Due 17:00 on Wednesday 28 September 2022 AEST (UTC +10)
+
 Last updated August 22, 2022
+
 Overview
+
 In this assignment you will:
+
 1. Develop a better understanding of how machine learning models are trained in practice, including
 partitioning of datasets and evaluation.
 2. Become familiar with the scikit-learn1 package for machine learning with text.
