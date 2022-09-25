@@ -22,7 +22,8 @@ Please feel free to contact us anytime！
 
 ### Programming Assignment 1: Conway's Game of Life
 ### CSE 220: Systems Programming
-**Introduction
+</p> 
+Introduction
 In this project youwill implement a simplified version of JohnHorton Conway’s Game of Life. The Game of Life
 is a particular model of cellular automaton, which is a method of modeling certain computations and interactions. Cellular automata theory is outside the scope of this class, but we can still explore this model.
 The Game of Life models an infinite grid of cells, in which every cell is either alive or dead. A simple and
@@ -285,4 +286,4 @@ This project will be worth 5% of your final course grade, including the handout 
 final course grade, or 10% of this assignment). The Autograder provided to you will not evaluate all 18 points
 for correctness, and you are responsible for testing your project thoroughly. It will be possible to receive full
 credit on the Autograder and substantially less than full credit in the gradebook.
-**
+</p>
