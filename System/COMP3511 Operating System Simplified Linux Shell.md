@@ -18,7 +18,7 @@ Please feel free to contact us anytime！
 
 
 <img src='https://github.com/codedaixie/csdaixie/blob/main/image/down.png'>
-<img src='image/logo.png' width='85%'>
+<img src='https://github.com/codedaixie/csdaixie/blob/main/image/logo.png' width='85%'>
 
 
 ### COMP3511 Operating System Simplified Linux Shell
