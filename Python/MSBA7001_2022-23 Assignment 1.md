@@ -43,16 +43,16 @@ Define your own function tri_letters(n) which accepts a positive integer n (1 < 
 a triangle of letters like the example shown below. The number of rows is determined by n. On 
 each row, letters are separated by one space. In your answer, test a few samples like below.
 Requirement: use a nested for loop.
->>> tri_letters(3)
+ tri_letters(3)
 A B C
 A B 
 A 
->>> tri_letters(20)
+ tri_letters(20)
 WARNING: your input is not valid
 1
->>> tri_letters('abc')
+ tri_letters('abc')
 WARNING: your input is not valid
->>> tri_letters(8)
+ tri_letters(8)
 A B C D E F G H
 A B C D E F G 
 A B C D E F 
@@ -91,21 +91,21 @@ necessary, so ’A’ rotated by 3 is ’D’ and ’Z’ rotated by 1 is ’A�
 rotate_letter(letter, n) that accepts a letter and an integer n, and returns a new letter that is 
 rotated by the amount of n. You may want to refer back to Problem 2 for ord and chr. In your 
 answer, test a few samples like below. No particular requirement.
->>> rotate_letter('t', 3)
+rotate_letter('t', 3)
 'w'
->>> rotate_letter('Y', 5)
+ rotate_letter('Y', 5)
 'D'
->>> rotate_letter('k', 20.1)
+ rotate_letter('k', 20.1)
 'WARNING: Your input is not valid.'
->>> rotate_letter('abc', 19)
+ rotate_letter('abc', 19)
 'WARNING: Your input is not valid.'
 >>> rotate_letter('D', -4)
 'Z'
->>> rotate_letter('?', 8)
+ rotate_letter('?', 8)
 'WARNING: Your input is not valid.'
->>> rotate_letter(7, 109)
+ rotate_letter(7, 109)
 'WARNING: Your input is not valid.'
->>> rotate_letter(20, 'k')
+ rotate_letter(20, 'k')
 'WARNING: Your input is not valid.'
 Problem 6 (4pts) 
 Write a program to find out all six-digit consecutive numbers (such as 123456, 345678, and 
