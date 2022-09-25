@@ -18,7 +18,7 @@ Please feel free to contact us anytime！
 
 
 <img src='https://github.com/codedaixie/csdaixie/blob/main/image/down.png'>
-<img src='image/logo.png' width='85%'>
+<img src='[https://github.com/codedaixie/csdaixie/blob/main/image/logo.png' width='85%'>
 
 ### MSBA7001_2022-23 Assignment 2
 ### MSBA7001
