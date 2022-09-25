@@ -24,12 +24,15 @@ Please feel free to contact us anytime！
 ### CSE183 Fall 2021 - Assignment 6
 
 In this assignment you will write a Node.js & Express RESTful E-Mail API and associated tests to
-demonstrate it
-works as required.
+demonstrate it works as required.
+
 This assignment is worth 7.5% of your final grade.
+
 Installation
+
 See instructions in Assignment 2 and ensure you are running the current LTS version of Node.js.
 Setup
+
 Download the starter code archive from Canvas and expand into an empty folder. I recommend, if you have
 not
 already done so, creating a folder for the class and individual folders beneath that for each assignment.
