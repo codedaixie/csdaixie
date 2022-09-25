@@ -19,6 +19,7 @@ Please feel free to contact us anytime！
 
 <img src='https://github.com/codedaixie/csdaixie/blob/main/image/down.png'>
 <img src='https://github.com/codedaixie/csdaixie/blob/main/image/logo.png' width='85%'>
+
 ### Programming Assignment 1: Conway's Game of Life
 ### CSE 220: Systems Programming
 **Introduction
