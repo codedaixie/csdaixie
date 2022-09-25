@@ -21,7 +21,7 @@ Please feel free to contact us anytime！
 <img src='https://github.com/codedaixie/csdaixie/blob/main/image/logo.png' width='85%'>
 
 ### MSBA7001_2022-23 Assignment 1
-** MSBA7001_2022-23 Assignment 1
+ MSBA7001_2022-23 Assignment 1
 • 6 problems, 20 pts
 • Save your codes in a Jupyter Notebook file named “A1.ipynb”
 • Compress your answer file as “A1.rar” or “A1.zip” and submit it on Moodle
@@ -43,16 +43,16 @@ Define your own function tri_letters(n) which accepts a positive integer n (1 < 
 a triangle of letters like the example shown below. The number of rows is determined by n. On 
 each row, letters are separated by one space. In your answer, test a few samples like below.
 Requirement: use a nested for loop.
- tri_letters(3)
+>>> tri_letters(3)
 A B C
 A B 
 A 
- tri_letters(20)
+>>> tri_letters(20)
 WARNING: your input is not valid
 1
- tri_letters('abc')
+>>> tri_letters('abc')
 WARNING: your input is not valid
- tri_letters(8)
+>>> tri_letters(8)
 A B C D E F G H
 A B C D E F G 
 A B C D E F 
@@ -72,17 +72,17 @@ Define your own function leap_year(year) to determine if year is a leap year or 
 simplicity, we will consider a year to be valid if 0 < year < 9999. In your answer, test a few 
 samples like below. Requirement: use a while loop; do NOT use try/except; do NOT use the 
 calendar module.
- leap_year(2000)
+>>> leap_year(2000)
 'Leap year'
- leap_year('MSBA')
+>>> leap_year('MSBA')
 'WARNING: your input is not valid'
- leap_year(-1990)
+>>> leap_year(-1990)
 'WARNING: your input is not valid'
- leap_year(1990.83)
+>>> leap_year(1990.83)
 'WARNING: your input is not valid'
 >>> leap_year(1800)
 'Regular year'
- leap_year(187000)
+>>> leap_year(187000)
 'WARNING: your input is not valid'
 2
 Problem 5 (4pts)
@@ -91,21 +91,21 @@ necessary, so ’A’ rotated by 3 is ’D’ and ’Z’ rotated by 1 is ’A�
 rotate_letter(letter, n) that accepts a letter and an integer n, and returns a new letter that is 
 rotated by the amount of n. You may want to refer back to Problem 2 for ord and chr. In your 
 answer, test a few samples like below. No particular requirement.
-rotate_letter('t', 3)
+>>> rotate_letter('t', 3)
 'w'
- rotate_letter('Y', 5)
+>>> rotate_letter('Y', 5)
 'D'
- rotate_letter('k', 20.1)
+>>> rotate_letter('k', 20.1)
 'WARNING: Your input is not valid.'
- rotate_letter('abc', 19)
+>>> rotate_letter('abc', 19)
 'WARNING: Your input is not valid.'
 >>> rotate_letter('D', -4)
 'Z'
- rotate_letter('?', 8)
+>>> rotate_letter('?', 8)
 'WARNING: Your input is not valid.'
- rotate_letter(7, 109)
+>>> rotate_letter(7, 109)
 'WARNING: Your input is not valid.'
- rotate_letter(20, 'k')
+>>> rotate_letter(20, 'k')
 'WARNING: Your input is not valid.'
 Problem 6 (4pts) 
 Write a program to find out all six-digit consecutive numbers (such as 123456, 345678, and 
@@ -116,4 +116,4 @@ These are the possible six-digit consecutive combinations:
 1234
 The following are in the first million digits of pi:
 012345 234567 345678 456789 567890 678901 890123 
-3 **
+3 
