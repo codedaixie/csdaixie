@@ -72,17 +72,17 @@ Define your own function leap_year(year) to determine if year is a leap year or 
 simplicity, we will consider a year to be valid if 0 < year < 9999. In your answer, test a few 
 samples like below. Requirement: use a while loop; do NOT use try/except; do NOT use the 
 calendar module.
->>> leap_year(2000)
+ leap_year(2000)
 'Leap year'
->>> leap_year('MSBA')
+ leap_year('MSBA')
 'WARNING: your input is not valid'
->>> leap_year(-1990)
+ leap_year(-1990)
 'WARNING: your input is not valid'
->>> leap_year(1990.83)
+ leap_year(1990.83)
 'WARNING: your input is not valid'
 >>> leap_year(1800)
 'Regular year'
->>> leap_year(187000)
+ leap_year(187000)
 'WARNING: your input is not valid'
 2
 Problem 5 (4pts)
