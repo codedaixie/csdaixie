@@ -29,7 +29,7 @@ Simplified Linux Shell (Multi-level Pipe)
 
 Released on 28-Feb-2022 (Monday) Due on 20-Mar-2022 (Sunday) at 23:59
 
-Introduction
+<p> Introduction
 
 The aim of this project is to help students understand process management and inter process
 communication in an operating system. Upon completion of the project, students
@@ -157,4 +157,4 @@ You are not required to submit other files, such as the input test cases.
 Late Submission
 For late submission, please submit it via email to the grader TA.
 There is a 10% deduction, and only 1 day late is allowed
-(Reference: Chapter 1 of the lecture notes)
+(Reference: Chapter 1 of the lecture notes) </p>
