@@ -220,4 +220,4 @@ change_contrast() on the image. Where does it fail?
 6
 As before you will obtain marks for coming up with interesting tests and analysis,
 and displaying your results clearly.
- Your code to answer question 5 and display results here
+# Your code to answer question 5 and display results here
