@@ -66,47 +66,6 @@ Please note that no coding is required here and one paragraph general answer is 
 3. [5 Marks] Suppose that we observe X1, . . . , Xn ∼ F. We model F as a Gamma distribution
 with shape parameter α > 0 and rate parameter β > 0. For this problem, determine the
 hypothesis class
-联系我们
-1. QQ：99515681
-2. 邮箱：99515681@qq.com
-3. ⼯作时间：8:00-21:00
-4. 微信：codinghelp
-热点⽂章 更多
-1. Fit2102代写、Java程序设计辅导 2022-09-06
-2. Qbus6600代做、辅导python语⾔编程 2022-09-
-06
-3. Finc3017代做、Java/Python编程 2022-09-05
-4. Mast90083辅导、辅导java,Python程序 2022-09
--05
-5. 代写cosc 1114、辅导c/C++编程语⾔ 2022-09-0
-5
-6. 代写math3075、辅导c++,Python程序 2022-09-0
-4
-7. Elen90055代做、辅导java,C++语⾔编程 2022-0
-9-04
-8. Ecmt2130代写、辅导r编程语⾔ 2022-09-04
-9. 辅导elec2103、辅导matlab编程 2022-09-03
-10. 辅导mcd4700、辅导java,Python编程 2022-09-0
-3
-11. Mat1856/Apm466: Mathematical Finance A... 2
-022-08-21
-12. Ecse-324 Lab 3 2022-08-21
-13. 辅导program程序、辅导matlab语⾔编程 2022-0
-8-21
-14. 辅导program、Java设计程序辅导 2022-08-21
-15. Comp3670辅导、辅导java,Python编程设计 202
-2-08-21
-16. 代写data程序、辅导c++,Java需要编程 2022-08-
-20
-17. Program辅导、辅导python,Java程序 2022-08-2
-0
-18. 代做math3888、辅导matlab 2022-08-20
-19. 辅导mast30022、辅导python,C/C++程序 2022-
-08-19
-20. Comp90073辅导、C++,Java语⾔程序 2022-08-
-18
-⾸⻚ 编程语⾔ 数据库 ⽹络开发 Algorithm算法 移动开发 系统相关 ⾦融统计 ⼈⼯智能 其他
-⾸⻚ > > 详细
 H = {f(x, θ); θ ∈ Θ}.
 and state explicitly what is θ and Θ.
 4. [15 Marks] Let H be a class of binary classifiers over a set Z. Let D be an unknown distribution
