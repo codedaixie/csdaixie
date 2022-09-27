@@ -19,3 +19,5 @@ Please feel free to contact us anytime！
 
 <img src='https://github.com/codedaixie/csdaixie/blob/main/image/down.png'>
 <img src='image/logo.png' width='85%'>
+
+google-site-verification: google9a6745d7f0c6e644.html
